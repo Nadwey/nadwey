@@ -1,5 +1,3 @@
-<h3 align="center">A passionate developer from Poland</h3>
-
 - 🔧Currently working on **MCFunction Editor**
 
 
