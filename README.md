@@ -1,4 +1,5 @@
 - 🔧Pracuję nad **MC Macro - Rebuild**, nie gram na żadnym dragonie, ale wkurzają mnie ludzie którzy chcą kase za jakieś clickery
+-  Pracuje również nad stroną internetową
 
 
 <h3 align="left">Używam:</h3>
